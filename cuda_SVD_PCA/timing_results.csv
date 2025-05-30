@@ -1,0 +1,6 @@
+Operation,Time_ms
+Matrix Random Fill,1.47763
+Matrix Operations,59.862
+Eigendecomposition,58.5858
+SVD Computation,418.602
+PCA Computation,263.388
